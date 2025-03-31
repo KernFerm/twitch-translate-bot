@@ -9,6 +9,7 @@ Welcome to **ChatTranslateBot** – a Twitch bot that allows your viewers to tra
 - 🌐 Offline translation using Argos Translate
 - 🧾 Cooldown system to prevent spamming
 - 📘 Easy setup and command usage
+- 💬 Acknowledges user in chat when translating begins
 
 ---
 
@@ -21,6 +22,15 @@ Welcome to **ChatTranslateBot** – a Twitch bot that allows your viewers to tra
 > Example:
 ```
 !translate from en hello how are you to es
+```
+
+🗨️ When a user uses the `!translate` command, the bot will respond:
+```
+@username, translating your message from EN to ES...
+```
+Then after a short moment:
+```
+@username 📝 [Translated Text]
 ```
 
 📌 **Other Commands**:
@@ -61,3 +71,4 @@ You can view the complete supported languages list here: 👉 [Supported Languag
 Made with 💙 by Bubbles and the FNBubbles420 Org team.
 
 ---
+
