@@ -59,6 +59,13 @@ Then after a short moment:
 
 ---
 
+## Screenshots
+<img src="https://github.com/KernFerm/twitch-translate-bot/blob/main/screenshot-1.png" width="470">
+<img src="https://github.com/KernFerm/twitch-translate-bot/blob/main/screenshot-2.png" width="470">
+<img src="https://github.com/KernFerm/twitch-translate-bot/blob/main/screenshot-3.png" width="470">
+
+---
+
 ## 🌍 Supported Languages (100+)
 
 You can view the complete supported languages list here: 👉 [Supported Languages on GitHub Releases](https://github.com/KernFerm/twitch-translate-bot/releases/tag/supported-languages)
