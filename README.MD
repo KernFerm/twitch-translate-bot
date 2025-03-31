@@ -7,7 +7,7 @@ Welcome to **ChatTranslateBot** – a Twitch bot that allows your viewers to tra
 ## 🚀 Features
 - 🔄 Real-time translation of messages
 - 🌐 Offline translation using Argos Translate
-- 🧾 Cooldown system to prevent spamming
+- 🧾 Cooldown system to prevent spamming `30 seconds`
 - 📘 Easy setup and command usage
 - 💬 Acknowledges user in chat when translating begins
 
