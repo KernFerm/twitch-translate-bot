@@ -55,6 +55,7 @@ Then after a short moment:
      ```
 
 3. That's it! You're now ready to use `!translate` and other commands on your stream.
+4. Make sure to let `Bubbles` know you made the bot a `mod` so he can activate the bot for your channel. 
 
 ---
 
