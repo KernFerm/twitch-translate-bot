@@ -1,6 +1,6 @@
 # 🧠 ChatTranslateBot (Twitch Translation Bot)
 
-Welcome to **ChatTranslateBot** – a Twitch bot that allows your viewers to translate messages in real-time using an easy-to-use chat command. This bot uses **Argos Translate**, an **offline and privacy-friendly** translation system that supports over 100 languages.
+Welcome to **ChatTranslateBot** – a Twitch bot that allows your viewers to translate messages in real-time using an easy-to-use chat command. This bot uses **Argos Translate**, an **offline and privacy-friendly** translation system that supports over 150 languages.
 
 ---
 
@@ -66,7 +66,7 @@ Then after a short moment:
 
 ---
 
-## 🌍 Supported Languages (100+)
+## 🌍 Supported Languages (150+)
 
 You can view the complete supported languages list here: 👉 [Supported Languages on GitHub Releases](https://github.com/KernFerm/twitch-translate-bot/releases/tag/supported-languages)
 
